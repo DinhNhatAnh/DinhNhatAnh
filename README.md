@@ -4,7 +4,7 @@
 * 🥰 I'm interested in Data Science and Education section
 * 📚 My education in Financial and Data Analysis
 * 👨‍🔬 My experience:
-  *Excel, Python, SQL, Power BI
+  - *Excel, Python, SQL, Power BI
   *Analyzing & Problem Solving 
   *Teamwork and Self-taught
 * 💼 I'm looking for Data Analytic jobs
