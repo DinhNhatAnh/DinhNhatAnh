@@ -1,6 +1,6 @@
 ### Hi there
 
-* 👋 I'm ##Dinh Nhat Anh
+* 👋 I'm @Dinh Nhat Anh
 * 🥰 I'm interested in Data Science and Education section
 * 📚 My education in Financial and Data Analysis
 * 👨‍🔬 Skills:
