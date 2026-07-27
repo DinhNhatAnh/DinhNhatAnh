@@ -18,9 +18,9 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 
 ## 🌱 Currently Learning 
 
-- [Take advanced courses to become a professional Data Analyst.]
-- [Learning about machine learning techniques.]
-- [Learning about Computer Vision in Deep Learning.]
+- [Take advanced courses to become a professional Data Analyst (now).]
+- [Learning about Machine Learning techniques (this year).]
+- [Learning about Deep Learning (this year).]
 
 ## 🛠️ Technical Skillset
 
