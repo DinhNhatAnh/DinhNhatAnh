@@ -1,7 +1,7 @@
 ## Hi there, I'm Dinh Nhat Anh👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Data+Scientist;Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me 
@@ -14,7 +14,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Building a sales forecasting model in Python.]  
-- **Project B:** [Creating an interactive marketing dashboard in Power BI.]
+- **Project B:** [Building an End-to-End Business Data Science Project]
 
 ## 🌱 Currently Learning 
 
